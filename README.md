@@ -1,5 +1,5 @@
-# Employee-Management-System-
-
+# Employee Management System
+## DBMS Course Project
 
 An Employee Management System is a software application designed to help organizations manage their employee data, track employee attendance, and handle other human resource tasks efficiently. This project aims to develop an Employee Management System using the Python programming language and the Tkinter GUI toolkit. 
  
